@@ -1,4 +1,4 @@
-# fastimage
+ # fastimage
 
 [![Version](https://img.shields.io/npm/v/fastimage.svg)](https://npm.im/fastimage)
 [![Dependencies](https://img.shields.io/librariesio/release/npm/fastimage)](https://libraries.io/npm/fastimage)
